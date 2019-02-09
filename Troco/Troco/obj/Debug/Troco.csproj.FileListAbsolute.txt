@@ -1,0 +1,10 @@
+D:\Dev\GitHub\Dart\Troco\Troco\bin\Debug\Troco.exe.config
+D:\Dev\GitHub\Dart\Troco\Troco\bin\Debug\Troco.exe
+D:\Dev\GitHub\Dart\Troco\Troco\bin\Debug\Troco.pdb
+D:\Dev\GitHub\Dart\Troco\Troco\obj\Debug\Troco.frmPrincipal.resources
+D:\Dev\GitHub\Dart\Troco\Troco\obj\Debug\Troco.Properties.Resources.resources
+D:\Dev\GitHub\Dart\Troco\Troco\obj\Debug\Troco.csproj.GenerateResource.cache
+D:\Dev\GitHub\Dart\Troco\Troco\obj\Debug\Troco.csproj.CoreCompileInputs.cache
+D:\Dev\GitHub\Dart\Troco\Troco\obj\Debug\Troco.exe
+D:\Dev\GitHub\Dart\Troco\Troco\obj\Debug\Troco.pdb
+D:\Dev\GitHub\Dart\Troco\Troco\obj\Debug\Troco.csprojAssemblyReference.cache
